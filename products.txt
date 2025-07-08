@@ -1,0 +1,5 @@
+123456789,Organic Peanut Butter,5.99,100,Healthy Harvest
+987654321,Bluetooth Headphones,49.99,50,TechBeats
+456789123,Stainless Steel Water Bottle,12.50,200,HydroFlask
+741852963,Quinoa Pasta,3.49,150,Ancient Grains
+369258147,Yoga Mat,19.99,75,YogiGear
